@@ -1,0 +1,4 @@
+﻿  MainF.cpp
+c:\users\marcin\documents\visual studio 2013\projects\calculator\calculator\MainF.h(919): warning C4101: 'res' : unreferenced local variable
+c:\users\marcin\documents\visual studio 2013\projects\calculator\calculator\MainF.h(972): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  Calculator.vcxproj -> C:\Users\Marcin\documents\visual studio 2013\Projects\Calculator\Release\Calculator.exe
